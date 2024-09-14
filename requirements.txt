@@ -1,4 +1,6 @@
-transformers
-torch
 accelerate
-streamlit
+bitsandbytes
+torch
+transformers
+einops
+sentencepiece
